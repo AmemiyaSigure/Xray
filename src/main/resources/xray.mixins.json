@@ -1,0 +1,9 @@
+{
+  "package": "al.qy.xray.mixin",
+  "required": true,
+  "setSourceFile": true,
+  "minVersion": "0.8",
+  "client": [
+    "BlockMixin"
+  ]
+}
